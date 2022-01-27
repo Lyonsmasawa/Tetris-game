@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    color: white;
+}
+.grid{
+    width: 200px;
+    background-color: yellow;
+    height: 400px;
+}
